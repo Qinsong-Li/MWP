@@ -4,7 +4,7 @@ This is the Matlab implementation for the paper 'Efficient deformable shape corr
 
 In this paper, we have presented a novel approach for shape correspondence that incorporated novel constraints into the functional map framework. The core idea is that multi-scale spectral manifold wavelets are required to be preserved at each scale respectively in the functional maps. Such constraints have been proven to be able to strongly ensure the isometric of the underlying point-wise maps. 
 
-![shrec16_partial_cqc_vis_svg3](F:\EG2021_2\MWP_github\shrec16_partial_cqc_vis_svg3.png)
+![shrec16_partial_cqc_vis_svg3](https://github.com/Qinsong-Li/MWP/blob/main/shrec16_partial_cqc_vis_svg3.png)
 
 
 
